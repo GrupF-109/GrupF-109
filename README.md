@@ -7,9 +7,13 @@ Takım Flutter F-109
 Takım Elemanları
 
 Nur Albayrak: Scrum Master
+
 Orhan Acer: Developer
+
 Baran Özdemir: Developer
+
 Ecem Tan: Developer
+
 Hasret Bağ: Aktif Olmayan Üye
 
 Ürün İsmi
