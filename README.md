@@ -12,7 +12,7 @@ Orhan Acer: Developer
 
 Baran Özdemir: Developer
 
-Ecem Tan: Developer
+Ecem Tan: Product Owner
 
 Hasret Bağ: Aktif Olmayan Üye
 
