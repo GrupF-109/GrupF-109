@@ -83,8 +83,8 @@ Jüriye iletilmesi gereken bir not olmadığına karar verildi.
 
 + **Sprint Board Update:** Sprint Board Ekran Görüntüleri:
 
+![Trello_Main](https://github.com/GrupF-109/GrupF-109/assets/136235551/fa0d53a1-1bb8-4c65-a222-f97baba876bb)
 ![Trello_Üyeler](https://github.com/GrupF-109/GrupF-109/assets/136235551/e0522ace-98fc-4928-b3be-15c3e9303539)
 ![Trello_S2](https://github.com/GrupF-109/GrupF-109/assets/136235551/e1bbda91-ce49-432b-9262-9d8620893673)
 ![Trello_S1](https://github.com/GrupF-109/GrupF-109/assets/136235551/c2e09e7c-c981-4962-88bb-ea5c50db383d)
-![Trello_Main](https://github.com/GrupF-109/GrupF-109/assets/136235551/fa0d53a1-1bb8-4c65-a222-f97baba876bb)
 
