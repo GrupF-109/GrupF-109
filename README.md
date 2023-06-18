@@ -101,7 +101,7 @@ Alınan kararlar: Kullanıcı login sayfası oluşturulmuştur. Diğer sayfalar�
 
 + **Sprint Retrospective:**
   
-- Roller karar verilmiştir. Scrum Master, Product Owner + developerlar belirlenmiştir.
+- Rollere karar verilmiştir. Scrum Master, Product Owner + developerlar belirlenmiştir.
 - Ürün kararı verilmiştir. Ürün içerik planı detaylandırılmıştır.
 -	Birden fazla toplantı ile ürün fazlara ayrılmış ve ilk sprintte tamamlanacak olan ürün şeması çıkartılmıştır.
 -	Takım üyelerinin gelecek sprintlerde ürünün hangi alanını geliştireceği planlanmıştır.
