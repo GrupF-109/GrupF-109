@@ -28,9 +28,9 @@ Trello Sprint1’de yapılan 4 madde, tamamlanan 15 madde bulunmaktadır.
 
 # Ürün Açıklaması
 
-FindFavor, gönüllü çalışmalara katılmak isteyen bireylerle ihtiyaç duyan kuruluşlar arasında bir köprü görevi görmek için yaratılmıştır. 
+FindFavor, gönüllü çalışmalara katılmak isteyen bireylerle bu çalışmaları düzenleyen kişiler veya kuruluşlar arasında bir köprü görevi görmek için yaratılmıştır. 
 
-FindFavor; Gönüllülük esasına dayalı tüm projeler içerisinde görev almak, katkı payı sağlamak isteyen, iyilik bulmak ve iyilik içinde yerini ayırmak isteyen kişilere hitap eder ve bu kişileri daha kolay bir şekilde bir araya getirir. Gönüllü çalışmalar/projeler içerisinde ‘çorbada benimde tuzum olsun mottosu’ ile yola çıkmış her bireyin varlığını gösterebileceği bir platform neden olmasın diye düşündük ve yapmak için yola koyulduk…
+FindFavor; Gönüllülük esasına dayalı projelerde görev almak, katkı sağlamak, iyilik bulmak ve iyilik içinde yerini ayırmak isteyen kişilere hitap eder. Bu kişileri daha kolay bir şekilde bir araya getirir. Gönüllü çalışmalar/projeler içerisinde ‘çorbada benimde tuzum olsun mottosu’ ile yola çıkmış her bireyin varlığını gösterebileceği bir platform neden olmasın diye düşündük ve yapmak için yola koyulduk…
 
 FindFavor bir gönüllü iş bulucu uygulamasıdır. Gönüllü ister bağlamında işleri yapmak isteyen kişilere açılmış bir fırsat kapısı rolü görmektedir. Gönüllü iş çerçevesi kapsamında bireyler sosyal sorumluluk projelerinde yer alabilecek ve farklı deneyimler elde edebileceklerdir. 
 
@@ -75,7 +75,7 @@ Jüriye iletilmesi gereken bir not olmadığına karar verildi.
 
 + **Sprint içinde elde edilmesi hedeflenen puan:** 100 Puan
 
-+ **Puan elde etme yöntemi:** Proje tamamlanana kadar elde edilmesi gereken 340 puanlık backlog bulunmaktadır. 3 Sprintlik bir proje olacağı düşünüldüğünde ilk sprin için 100 puan hedefi uygun görüldü.
++ **Puan elde etme yöntemi:** Proje tamamlanana kadar elde edilmesi gereken 340 puanlık backlog bulunmaktadır. 3 Sprintlik bir proje olacağı düşünüldüğünde ilk sprint için 100 puan hedefi uygun görüldü.
 
 + **Daily Scrum:** Projemizle ilgili günlük konuşmalar grup üyeleri tarafından sıkla kullanılan bir uygulama olması sebebiyle Whatsapp kullanılarak gerçekleştirilmiştir.
 
