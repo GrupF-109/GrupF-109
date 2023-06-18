@@ -98,3 +98,11 @@ Jüriye iletilmesi gereken bir not olmadığına karar verildi.
 + **Sprint Review:**
 
 Alınan kararlar: Kullanıcı login sayfası oluşturulmuştur. Diğer sayfaların taslak tasarımı çizilmiştir. Login sayfasının bazı detayları kodlanmıştır. Veritabanı için firabase servisleri ile uğraşılmıştır. Diğer sprintin görev dağılımı yapılmış olup, F-109 ekibinin hangi ekranların geliştirmesini yapacağı kararlaştırılmıştır. Sprint Review katılımcıları: Baran Özdemir, Nur Albayrak, Orhan Acer, Ecem Tan
+
++ **Sprint Retrospective:**
+  
+- Roller karar verilmiştir. Scrum Master, Product Owner + developerlar belirlenmiştir.
+- Ürün kararı verilmiştir. Ürün içerik planı detaylandırılmıştır.
+-	Birden fazla toplantı ile ürün fazlara ayrılmış ve ilk sprintte tamamlanacak olan ürün şeması çıkartılmıştır.
+-	Takım üyelerinin gelecek sprintlerde ürünün hangi alanını geliştireceği planlanmıştır.
+
