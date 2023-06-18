@@ -1,10 +1,10 @@
-Takım İsmi
+# Takım İsmi
 
-Takım Flutter F-109
+Takım Flutter F-109 
 
-Ürün İle İlgili Bilgiler
+# Ürün İle İlgili Bilgiler
 
-Takım Elemanları
+## Takım Elemanları
 
 Nur Albayrak: Scrum Master
 
