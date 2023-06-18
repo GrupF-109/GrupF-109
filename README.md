@@ -82,6 +82,7 @@ Jüriye iletilmesi gereken bir not olmadığına karar verildi.
 + **Puan elde etme yöntemi:** Proje tamamlanana kadar elde edilmesi gereken 340 puanlık backlog bulunmaktadır. 3 Sprintlik bir proje olacağı düşünüldüğünde ilk sprint için 100 puan hedefi uygun görüldü.
 
 + **Daily Scrum:** Projemizle ilgili günlük konuşmalar grup üyeleri tarafından sıkla kullanılan bir uygulama olması sebebiyle Whatsapp kullanılarak gerçekleştirilmiştir.
+  
   [DAİLY SCRUM.docx](https://github.com/GrupF-109/GrupF-109/files/11782767/DAILY.SCRUM.docx)
 
 
