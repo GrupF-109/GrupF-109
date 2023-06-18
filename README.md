@@ -47,37 +47,37 @@ Sonuç olarak, gönüllü iş bulucu uygulaması olarak tanımladığımız Find
 İsminden yaratılan çıkış mottosu ve sloganımız ile durumu şu şekilde özetleyebiliriz; İyilik yapan, iyilik bulur, gönüllülük esası ile iyilik yapacağınız platforma hoşgeldiniz :) 
 
 
---Uygulama birincil fonksiyonu: 
++ Uygulama birincil fonksiyonu: 
 
 
---Uygulama ikincil fonksiyonu:
++ Uygulama ikincil fonksiyonu:
 
 # Ürün Özellikleri
 
 **Gönüllü iş bulucu uygulamamız FindFavor ile;**
-Gönüllülük esasına dayalı projelerin uygulama içerisinde görüntülenmesi,
++ Gönüllülük esasına dayalı projelerin uygulama içerisinde görüntülenmesi,
 
-Kullanıcıların gönüllü projelere hızlı ve kolay ulaşımının sağlanması,
++ Kullanıcıların gönüllü projelere hızlı ve kolay ulaşımının sağlanması,
 
-Projelerde görev almak isteyen gönüllülerin, görev almak istedikleri projelere kaydının gerçekleştirilmesi,
++ Projelerde görev almak isteyen gönüllülerin, görev almak istedikleri projelere kaydının gerçekleştirilmesi,
 
-Projeye kaydolan kullanıcı bilgilerinin, proje sahibine bildirilmesi ve böylece uygulama görevinin tamamlanması **sağlanmaktadır.**
++ Projeye kaydolan kullanıcı bilgilerinin, proje sahibine bildirilmesi ve böylece uygulama görevinin tamamlanması **sağlanmaktadır.**
 
 # Hedef Kitle
 
-Gönüllü topluluk içinde yer almak isteyen kişiler
++ Gönüllü topluluk içinde yer almak isteyen kişiler
 
-Gönüllü iş vermek isteyen kuruluşlar
++ Gönüllü iş vermek isteyen kuruluşlar
 
 # Jüriye Not
 Jüriye iletilmesi gereken bir not olmadığına karar verildi.
 # Sprint 1
 
-Sprint içinde elde edilmesi hedeflenen puan: 100 Puan
++ **Sprint içinde elde edilmesi hedeflenen puan:** 100 Puan
 
-Puan elde etme yöntemi: Proje tamamlanana kadar elde edilmesi gereken 340 puanlık backlog bulunmaktadır. 3 Sprintlik bir proje olacağı düşünüldüğünde ilk sprin için 100 puan hedefi uygun görüldü.
++ **Puan elde etme yöntemi:** Proje tamamlanana kadar elde edilmesi gereken 340 puanlık backlog bulunmaktadır. 3 Sprintlik bir proje olacağı düşünüldüğünde ilk sprin için 100 puan hedefi uygun görüldü.
 
-Daily Scrum: Projemizle ilgili günlük konuşmalar grup üyeleri tarafından sıkla kullanılan bir uygulama olması sebebiyle Whatsapp kullanılarak gerçekleştirilmiştir.
++ **Daily Scrum:** Projemizle ilgili günlük konuşmalar grup üyeleri tarafından sıkla kullanılan bir uygulama olması sebebiyle Whatsapp kullanılarak gerçekleştirilmiştir.
 
 
-Sprint Board Update: Sprint Board Ekran Görüntüleri:
++ **Sprint Board Update:** Sprint Board Ekran Görüntüleri:
