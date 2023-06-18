@@ -16,9 +16,9 @@ Ecem Tan: Product Owner
 
 Hasret Bağ: Aktif Olmayan Üye
 
-Ürün İsmi
+# Ürün İsmi
 
--Find Favor-
+--Find Favor--
 
 Product Backlog URL
 
