@@ -30,13 +30,13 @@ Trello Sprint1’de yapılan 4 madde, tamamlanan 15 madde bulunmaktadır.
 
 FindFavor, gönüllü çalışmalara katılmak isteyen bireylerle bu çalışmaları düzenleyen kişiler veya kuruluşlar arasında bir köprü görevi görmek için yaratılmıştır. 
 
-FindFavor; Gönüllülük esasına dayalı projelerde görev almak, katkı sağlamak, iyilik bulmak ve iyilik içinde yerini ayırmak isteyen kişilere hitap eder. Bu kişileri daha kolay bir şekilde bir araya getirir. Gönüllü çalışmalar/projeler içerisinde ‘çorbada benimde tuzum olsun mottosu’ ile yola çıkmış her bireyin varlığını gösterebileceği bir platform neden olmasın diye düşündük ve yapmak için yola koyulduk…
+FindFavor; Gönüllülük esasına dayalı projelerde görev alarak katkı sağlamak, iyilik bulmak ve iyilik içinde yerini ayırmak isteyen kişilere hitap eder. Bu kişileri kolay bir şekilde bir araya getirir. Gönüllü çalışmalar/projeler içerisinde ‘çorbada benimde tuzum olsun mottosu’ ile yola çıkmış her bireyin varlığını gösterebileceği bir platform neden olmasın diye düşündük ve yapmak için yola koyulduk…
 
-FindFavor bir gönüllü iş bulucu uygulamasıdır. Gönüllü ister bağlamında işleri yapmak isteyen kişilere açılmış bir fırsat kapısı rolü görmektedir. Gönüllü iş çerçevesi kapsamında bireyler sosyal sorumluluk projelerinde yer alabilecek ve farklı deneyimler elde edebileceklerdir. 
+FindFavor bir gönüllü iş bulucu uygulamasıdır. Etkinlik ve projelerde görev almak isteyen kişilere açılmış bir fırsat kapısı rolü görmektedir. Gönüllü iş çerçevesi kapsamında bireyler sosyal sorumluluk projelerinde yer alabilecek ve farklı deneyimler elde edebileceklerdir. 
 
 İnsanlar artık sadece birkaç dokunuşla gönüllü iş fırsatlarını keşfedebilmektedirler. FindFavor ile bu fırsatları kolay ve basit bir hale indirgemek istedik.
 
-Uygulamamız; kullanıcıların ilgi alanları, becerileri ve yerel bölgelerine dayalı olarak en uygun gönüllü projeleri bulmalarına yardımcı olmaktadır. İster çevre koruma, ister çocukların eğitimi, ister hayvan hakları olsun, her türlü konuda gönüllü iş fırsatlarına erişim sağlanabilmektedir. Bu uygulama, gönüllü çalışmalara katılmak isteyen bireyler için birçok avantaj sunmaktadır. Uygulama zaman tasarrufu sağlamakta, insanlar, gönüllü projeleri tek tek aramak yerine, tüm seçenekleri uygulamada bulabilmektedirler. Bu yanı ile FindFavor, gönüllü kişilere ihtiyaç duyan kuruluşlar için de büyük bir kolaylık sağlamış olmaktadır. Kuruluşlar, projelerini ve ihtiyaçlarını uygulama üzerinden tanıtabilir ve potansiyel gönüllülerle doğrudan iletişim kurabilirler. Bu da süreci hızlandırmakta ve daha fazla insanın gönüllü çalışmalara dahil olmasını sağlamaktadır. 
+Uygulamamız; kullanıcıların ilgi alanları, becerileri ve yerel bölgelerine dayalı olarak en uygun gönüllü projeleri bulmalarına yardımcı olmaktadır. İster çevre koruma, ister çocukların eğitimi, ister hayvan hakları olsun, her türlü konuda gönüllü iş fırsatlarına erişim sağlanabilmektedir. Uygulama zaman tasarrufu sağlamakta, insanlar, gönüllü projeleri tek tek aramak yerine, tüm seçenekleri uygulamada bulabilmektedirler. Bu yanı ile FindFavor, gönüllü kişilere ihtiyaç duyan kuruluşlar için de büyük bir kolaylık sağlamış olmaktadır. Kuruluşlar, projelerini ve ihtiyaçlarını uygulama üzerinden tanıtabilir ve potansiyel gönüllülerle doğrudan iletişim kurabilirler. Bu da süreci hızlandırmakta ve daha fazla insanın gönüllü çalışmalara dahil olmasını sağlamaktadır. 
 
 Gönüllü iş bulucu uygulaması, toplumda bir dayanışma kültürü oluşturmayı amaçlamaktadır. İnsanları gönüllü çalışmalara teşvik etmek, toplumsal sorunların çözümüne yardımcı olmak ve insanların birbirleriyle daha güçlü bağlar kurmasına olanak sağlamak gibi büyük bir misyona sahiptir. 
 
@@ -47,10 +47,14 @@ Sonuç olarak, gönüllü iş bulucu uygulaması olarak tanımladığımız Find
 İsminden yaratılan çıkış mottosu ve sloganımız ile durumu şu şekilde özetleyebiliriz; İyilik yapan, iyilik bulur, gönüllülük esası ile iyilik yapacağınız platforma hoşgeldiniz :) 
 
 
-+ Uygulama birincil fonksiyonu: 
++ Uygulama birincil fonksiyonu:
+  
+Uygulama, kullanıcıların, ilgi alanları, becerileri ve yerel bölgelerine dayalı olarak kendilerine en uygun gönüllü projeleri bulmalarına yardımcı olur. Kullanıcı görev almak istediği projelere kaydını gerçekleştirir. Bu kayıt bilgisi projeyi yürüten kuruluş veya kişiye iletilir. 
 
 
 + Uygulama ikincil fonksiyonu:
+
+Gönüllülük esaslı çalışmalar ve projeler yürüten kuruluş veya kişiler uygulamada kendileri için düzenlenmiş sayfada projelerini gönüllü kullanıcıların beğenisine sunar. Böylece projelerine uygun kişiler bu etkinliklerde görev alabilecektir.
 
 # Ürün Özellikleri
 
