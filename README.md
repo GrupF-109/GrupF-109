@@ -93,4 +93,9 @@ Jüriye iletilmesi gereken bir not olmadığına karar verildi.
 ![Trello_S2](https://github.com/GrupF-109/GrupF-109/assets/136235551/e1bbda91-ce49-432b-9262-9d8620893673)
 ![Trello_S1](https://github.com/GrupF-109/GrupF-109/assets/136235551/c2e09e7c-c981-4962-88bb-ea5c50db383d)
 ![Ekran görüntüsü 2023-06-19 021225](https://github.com/GrupF-109/GrupF-109/assets/136235551/36e85c02-b6d2-4445-9a15-beefa15a7715)
+![WhatsApp Görsel 2023-06-16 saat 17 15 39](https://github.com/GrupF-109/GrupF-109/assets/136235551/f593dc04-34d8-449f-bda9-e946885b2443)
 ![emulator ekran](https://github.com/GrupF-109/GrupF-109/assets/136235551/ccfdde34-ece0-4c15-b493-cc736612162e)
+
++ **Sprint Review:**
+
+Alınan kararlar: Kullanıcı login sayfası oluşturulmuştur. Diğer sayfaların taslak tasarımı çizilmiştir. Login sayfasının bazı detayları kodlanmıştır. Veritabanı için firabase servisleri ile uğraşılmıştır. Diğer sprintin görev dağılımı yapılmış olup, F-109 ekibinin hangi ekranların geliştirmesini yapacağı kararlaştırılmıştır. Sprint Review katılımcıları: Baran Özdemir, Nur Albayrak, Orhan Acer, Ecem Tan
