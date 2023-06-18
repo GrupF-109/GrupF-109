@@ -40,19 +40,19 @@ Uygulamamız; kullanıcıların ilgi alanları, becerileri ve yerel bölgelerine
 
 Gönüllü iş bulucu uygulaması, toplumda bir dayanışma kültürü oluşturmayı amaçlamaktadır. İnsanları gönüllü çalışmalara teşvik etmek, toplumsal sorunların çözümüne yardımcı olmak ve insanların birbirleriyle daha güçlü bağlar kurmasına olanak sağlamak gibi büyük bir misyona sahiptir. 
 
-Sonuç olarak, gönüllü iş bulucu uygulaması olarak tanımladığımız FindFavor, modern dünyanın ihtiyaçlarını karşılamak için geliştirilmiş bir araçtır. İnsanları daha kolay bir şekilde gönüllü çalışmalara yönlendirmek, toplumda dayanışmayı artırmak ve toplumsal sorunları çözmek için önemli bir rol oynaması hedeflenmektedir.
+Sonuç olarak, gönüllü iş bulucu uygulaması olarak tanımladığımız FindFavor'un, insanları daha kolay bir şekilde gönüllü çalışmalara yönlendirmek, toplumda dayanışmayı artırmak ve toplumsal sorunları çözmek için önemli bir rol oynaması hedeflenmektedir.
 
  Bu uygulama, insanların daha fazla yardım elini uzatmalarını ve dünyayı birlikte daha iyi bir yer haline getirmelerini sağlamak için önemli bir adımdır. FindFavor ile iyilik bulmak isteyen herkes burada yerini alacaktır. 
 
 İsminden yaratılan çıkış mottosu ve sloganımız ile durumu şu şekilde özetleyebiliriz; İyilik yapan, iyilik bulur, gönüllülük esası ile iyilik yapacağınız platforma hoşgeldiniz :) 
 
 
-+ Uygulama birincil fonksiyonu:
++ **Uygulama birincil fonksiyonu:**
   
 Uygulama, kullanıcıların, ilgi alanları, becerileri ve yerel bölgelerine dayalı olarak kendilerine en uygun gönüllü projeleri bulmalarına yardımcı olur. Kullanıcı görev almak istediği projelere kaydını gerçekleştirir. Bu kayıt bilgisi projeyi yürüten kuruluş veya kişiye iletilir. 
 
 
-+ Uygulama ikincil fonksiyonu:
++ **Uygulama ikincil fonksiyonu:**
 
 Gönüllülük esaslı çalışmalar ve projeler yürüten kuruluş veya kişiler uygulamada kendileri için düzenlenmiş sayfada projelerini gönüllü kullanıcıların beğenisine sunar. Böylece projelerine uygun kişiler bu etkinliklerde görev alabilecektir.
 
