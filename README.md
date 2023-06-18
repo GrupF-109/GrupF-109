@@ -20,13 +20,13 @@ Hasret Bağ: Aktif Olmayan Üye
 
 --Find Favor--
 
-Product Backlog URL
+# Product Backlog URL
 
 https://trello.com/b/x7BykFNT/spri%CC%87nt-1
 
 Trello Sprint1’de yapılan 4 madde, tamamlanan 15 madde bulunmaktadır.
 
-Ürün Açıklaması
+# Ürün Açıklaması
 
 FindFavor, gönüllü çalışmalara katılmak isteyen bireylerle ihtiyaç duyan kuruluşlar arasında bir köprü görevi görmek için yaratılmıştır. 
 
@@ -52,4 +52,32 @@ Sonuç olarak, gönüllü iş bulucu uygulaması olarak tanımladığımız Find
 
 --Uygulama ikincil fonksiyonu:
 
-Ürün Özellikleri
+# Ürün Özellikleri
+
+**Gönüllü iş bulucu uygulamamız FindFavor ile;**
+Gönüllülük esasına dayalı projelerin uygulama içerisinde görüntülenmesi,
+
+Kullanıcıların gönüllü projelere hızlı ve kolay ulaşımının sağlanması,
+
+Projelerde görev almak isteyen gönüllülerin, görev almak istedikleri projelere kaydının gerçekleştirilmesi,
+
+Projeye kaydolan kullanıcı bilgilerinin, proje sahibine bildirilmesi ve böylece uygulama görevinin tamamlanması **sağlanmaktadır.**
+
+# Hedef Kitle
+
+Gönüllü topluluk içinde yer almak isteyen kişiler
+
+Gönüllü iş vermek isteyen kuruluşlar
+
+# Jüriye Not
+Jüriye iletilmesi gereken bir not olmadığına karar verildi.
+# Sprint 1
+
+Sprint içinde elde edilmesi hedeflenen puan: 100 Puan
+
+Puan elde etme yöntemi: Proje tamamlanana kadar elde edilmesi gereken 340 puanlık backlog bulunmaktadır. 3 Sprintlik bir proje olacağı düşünüldüğünde ilk sprin için 100 puan hedefi uygun görüldü.
+
+Daily Scrum: Projemizle ilgili günlük konuşmalar grup üyeleri tarafından sıkla kullanılan bir uygulama olması sebebiyle Whatsapp kullanılarak gerçekleştirilmiştir.
+
+
+Sprint Board Update: Sprint Board Ekran Görüntüleri:
