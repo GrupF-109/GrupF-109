@@ -120,4 +120,8 @@ Uygulama için bazı logo tasarımları denendi,
 
 Readme içeriği hazırlandı.
 
+### 2.Sprint kapsamında gerçekleştirilmesi hedeflenen görevler şöyle listelendi:
+ - Login ekranda eksik kalan alanların tamamlanması 
+ - Giriş yap bağlantısının tamamlanması
+ - Anasayfa ekran tasarımları ve alanların nasıl kodlanacağının bölünmesi 
 
