@@ -1,0 +1,18 @@
+SPRİNT NOTLARI
+
+1.ci sprint içerisinde neler yapıldı:
+Ürün kapsamı kararlaştırıldı.
+Ürün detayı sprintlere göre bölündü.
+Takım rolleri belirlendi.
+1.sprint kapsamında hazırlanacak olan ürün için birden fazla toplantılar yapıldı.
+1.sprint kapsamında ürün kodu yazıldı ve tasarımı hazırlandı.
+1.sprint read me içeriği hazırlandı.
+
+
+Takım olarak sprint bölümleri içerisinde nelerin yapıldı:
+Sprint 1:
+- Login ekranının tamamlanması
+Sprint 2:
+ - Login ekranda eksik kalan alanların tamamlanması 
+ - Giriş yap bağlantısının tamamlanması
+ - Anasayfa ekran tasarımları ve alanların nasıl kodlanacağının bölünmesi 
