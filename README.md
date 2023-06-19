@@ -106,3 +106,15 @@ Alınan kararlar: Kullanıcı login sayfası oluşturulmuştur. Diğer sayfalar�
 -	Birden fazla toplantı ile ürün fazlara ayrılmış ve ilk sprintte tamamlanacak olan ürün şeması çıkartılmıştır.
 -	Takım üyelerinin gelecek sprintlerde ürünün hangi alanını geliştireceği planlanmıştır.
 
+# Sprint Notları
+
++ Ürün kapsamı kararlaştırıldı.
++ Ürün detayı sprintlere göre bölündü.
++ Takım rolleri belirlendi.
++ 1.sprint kapsamında;
+hazırlanacak olan ürün için birçok toplantı yapıldı,
+ürün kodu yazıldı ve tasarımı hazırlandı,
+Uygulama için bazı logo tasarımları denendi,
+Readme içeriği hazırlandı.
+
+
