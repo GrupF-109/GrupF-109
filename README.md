@@ -112,9 +112,12 @@ Alınan kararlar: Kullanıcı login sayfası oluşturulmuştur. Diğer sayfalar�
 + Ürün detayı sprintlere göre bölündü.
 + Takım rolleri belirlendi.
 + 1.sprint kapsamında;
++ 
 hazırlanacak olan ürün için birçok toplantı yapıldı,
 ürün kodu yazıldı ve tasarımı hazırlandı,
+
 Uygulama için bazı logo tasarımları denendi,
+
 Readme içeriği hazırlandı.
 
 
