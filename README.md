@@ -124,5 +124,6 @@ Readme içeriği hazırlandı.
  - Login ekranında eksik kalan alanların tamamlanması 
  - Giriş yap bağlantısının tamamlanması
  - Uygulamanın diğer sayfaları için ekran tasarımlarının tamamlanması
- - kodlanacak sayfaların kararlaştırılan tasarımlara uygun olarak kimler tarafından ve nasıl kodlanacağının kesinleştirilmesi, 
+ - kodlanacak sayfaların kararlaştırılan tasarımlara uygun olarak kimler tarafından ve nasıl kodlanacağının kesinleştirilmesi,
+ - 2.Sprint için akademi tarafından yerine getirilmesi istenen hedeflere eksiksiz ulaşılması
  
