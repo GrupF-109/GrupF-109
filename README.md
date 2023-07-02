@@ -142,9 +142,9 @@ Daily Scrum içeriği görüntüler şeklinde ekteki dosyada paylaşılmıştır
 
 ## Ürün Durumu:
 ### Ekran görüntüsü:
-![Uploading Screenshot_1688339801.png…]()
-![Uploading Screenshot_1688340447.png…]()
-![Screenshot_1688339359](https://github.com/GrupF-109/GrupF-109/assets/136235551/ee4919ac-afe1-4967-a7b9-9cd0bd9e7dde)
-![Uploading Screenshot_1688339371.png…]()
-![Uploading Screenshot_1688339640.png…]()
-![Uploading Screenshot_1688339651.png…]()
+![Screenshot_1688339359](https://github.com/GrupF-109/GrupF-109/assets/136235551/6c610b2c-262f-4622-a799-8ee9f1871ecc)
+![Screenshot_1688339371](https://github.com/GrupF-109/GrupF-109/assets/136235551/f43c85be-24c1-4991-bbf9-9042757ff1db)
+![Screenshot_1688339651](https://github.com/GrupF-109/GrupF-109/assets/136235551/87f7ab1f-b333-498e-ac53-b0e363eae4ef)
+![Screenshot_1688339801](https://github.com/GrupF-109/GrupF-109/assets/136235551/04f5f563-78e8-4a0d-8317-ab8826f78ea0)
+![Screenshot_1688339640](https://github.com/GrupF-109/GrupF-109/assets/136235551/bd777edf-b9a6-4256-82be-08172212a3f6)
+![Screenshot_1688340447](https://github.com/GrupF-109/GrupF-109/assets/136235551/b3b1f922-3569-49c8-9db8-0edec5bb7390)
