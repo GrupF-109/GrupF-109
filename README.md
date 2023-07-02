@@ -140,7 +140,7 @@ Daily Scrum içeriği görüntüler şeklinde ekteki dosyada paylaşılmıştır
 ![Screenshot_2023-07-03-02-40-23-621_com trello](https://github.com/GrupF-109/GrupF-109/assets/136235551/4ae1a14b-1f33-408c-986f-61439ebcb4e9)
 ![Screenshot_2023-07-03-02-40-19-837_com trello](https://github.com/GrupF-109/GrupF-109/assets/136235551/ced31965-c8db-43f7-9e45-93cbbc8e2611)
 
-- **Ürün Durumu:**
+## Ürün Durumu:
 - **Ekran görüntüsü:**
 ![Screenshot_1688339359](https://github.com/GrupF-109/GrupF-109/assets/136235551/6c610b2c-262f-4622-a799-8ee9f1871ecc)
 ![Screenshot_1688339371](https://github.com/GrupF-109/GrupF-109/assets/136235551/f43c85be-24c1-4991-bbf9-9042757ff1db)
@@ -149,7 +149,7 @@ Daily Scrum içeriği görüntüler şeklinde ekteki dosyada paylaşılmıştır
 ![Screenshot_1688339640](https://github.com/GrupF-109/GrupF-109/assets/136235551/bd777edf-b9a6-4256-82be-08172212a3f6)
 ![Screenshot_1688340447](https://github.com/GrupF-109/GrupF-109/assets/136235551/b3b1f922-3569-49c8-9db8-0edec5bb7390)
 
-- **Sprint Review:** 
+## Sprint Review:
 - **Alınan kararlar:** 
 Bu sprintte login ekran eksiklikleri tamamlanmıştır.
 Anasayfa ekran tasarımları ve kodları geliştirilmeye başlanmıştır.
@@ -157,10 +157,10 @@ Harita - konum sayfasının geliştirilmesi tamamlanmıştır. Sprint Review izl
 
 * Nur Albayrak PC bozulması sebebiyle bu sprintte kod katkısı olamamıştır. Beni oku - sprint2 içeriğini hazırlamıştır.
 
-- **Sprint Retrospective:**
+## Sprint Retrospective:
 Takım içinde gelecek sprintlerde daha fazla aktif olunması vurgusu yapılmıştır.
 
-- **Sprint Notları**
+## Sprint Notları
 
 - Ürün kapsamının tamamlanması için belirli kodlar geliştirildi.
 - Uygulamanın ilk sprintten eksik kalan alanları tamamlandı.
