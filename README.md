@@ -1,7 +1,3 @@
-![Screenshot_1688339359](https://github.com/GrupF-109/GrupF-109/assets/136235551/ee4919ac-afe1-4967-a7b9-9cd0bd9e7dde)
-![Uploading Screenshot_1688339371.png…]()
-![Uploading Screenshot_1688339640.png…]()
-![Uploading Screenshot_1688339651.png…]()
 # Takım İsmi
 
 Takım Flutter F-109 
@@ -148,3 +144,7 @@ Daily Scrum içeriği görüntüler şeklinde ekteki dosyada paylaşılmıştır
 ### Ekran görüntüsü:
 ![Uploading Screenshot_1688339801.png…]()
 ![Uploading Screenshot_1688340447.png…]()
+![Screenshot_1688339359](https://github.com/GrupF-109/GrupF-109/assets/136235551/ee4919ac-afe1-4967-a7b9-9cd0bd9e7dde)
+![Uploading Screenshot_1688339371.png…]()
+![Uploading Screenshot_1688339640.png…]()
+![Uploading Screenshot_1688339651.png…]()
