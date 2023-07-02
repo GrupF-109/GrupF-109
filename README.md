@@ -129,22 +129,47 @@ Readme içeriği hazırlandı.
  
 # SPRİNT 2
 
-## Günlük Scrum: 
+- **Günlük Scrum:** 
 Günlük Scrum toplantıları Bayram tatili sebeplerinden dolayı gerçekleştirilemedi, Geliştirme takibi whatsapp üzerinden ilerlemiştir.
 Daily Scrum içeriği görüntüler şeklinde ekteki dosyada paylaşılmıştır. 
  [Daily Scrum 2.docx](https://github.com/GrupF-109/GrupF-109/files/11931743/Daily.Scrum.2.docx)
 
-## Sprint board güncellemesi: 
-### Sprint Board Ekran Görüntüleri:
+- **Sprint board güncellemesi:** 
+- **Sprint Board Ekran Görüntüleri:**
 ![Screenshot_2023-07-03-02-40-32-931_com trello-edit](https://github.com/GrupF-109/GrupF-109/assets/136235551/fc4637f4-29a4-47c2-b90d-ed250e9a9739)
 ![Screenshot_2023-07-03-02-40-23-621_com trello](https://github.com/GrupF-109/GrupF-109/assets/136235551/4ae1a14b-1f33-408c-986f-61439ebcb4e9)
 ![Screenshot_2023-07-03-02-40-19-837_com trello](https://github.com/GrupF-109/GrupF-109/assets/136235551/ced31965-c8db-43f7-9e45-93cbbc8e2611)
 
-## Ürün Durumu:
-### Ekran görüntüsü:
+- **Ürün Durumu:**
+- **Ekran görüntüsü:**
 ![Screenshot_1688339359](https://github.com/GrupF-109/GrupF-109/assets/136235551/6c610b2c-262f-4622-a799-8ee9f1871ecc)
 ![Screenshot_1688339371](https://github.com/GrupF-109/GrupF-109/assets/136235551/f43c85be-24c1-4991-bbf9-9042757ff1db)
 ![Screenshot_1688339651](https://github.com/GrupF-109/GrupF-109/assets/136235551/87f7ab1f-b333-498e-ac53-b0e363eae4ef)
 ![Screenshot_1688339801](https://github.com/GrupF-109/GrupF-109/assets/136235551/04f5f563-78e8-4a0d-8317-ab8826f78ea0)
 ![Screenshot_1688339640](https://github.com/GrupF-109/GrupF-109/assets/136235551/bd777edf-b9a6-4256-82be-08172212a3f6)
 ![Screenshot_1688340447](https://github.com/GrupF-109/GrupF-109/assets/136235551/b3b1f922-3569-49c8-9db8-0edec5bb7390)
+
+- **Sprint Review:** 
+- **Alınan kararlar:** 
+Bu sprintte login ekran eksiklikleri tamamlanmıştır.
+Anasayfa ekran tasarımları ve kodları geliştirilmeye başlanmıştır.
+Harita - konum sayfasının geliştirilmesi tamamlanmıştır. Sprint Review izlenimleri: Baran Özdemir, Orhan Acer, Ecen Tan, Nur Albayrak
+
+* Nur Albayrak PC bozulması sebebiyle bu sprintte kod katkısı olamamıştır. Beni oku - sprint2 içeriğini hazırlamıştır.
+
+- **Sprint Retrospective:**
+Takım içinde gelecek sprintlerde daha fazla aktif olunması vurgusu yapılmıştır.
+
+- **Sprint Notları**
+
+- Ürün kapsamının tamamlanması için belirli kodlar geliştirildi.
+- Uygulamanın ilk sprintten eksik kalan alanları tamamlandı.
+- 2.sprint kapsamında anasayfa tasarımı ve kod yapısı + konum sayfasının tasarımı tamamlandı.
+- Beni oku içeriği hazırlanmıştır.
+
+### 3.Sprint kapsamında gerçekleştirilmesi hedeflenen görevleri şöyle listeledi:
+
+2.sprintten eksik kalan alanların tamamlanması
+Uygulamanın diğer sayfaları için ekran tasarımlarının tamamlanması
+kod sayfalarının kararlaştırılan tasarımlara uygun olarak kimler tarafından ve nasıl kodlanacağının yeniden kesinleştirilmesi,
+Uygulama çıktısında istenilen nihai sonuca varılması için çalışılması
