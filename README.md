@@ -127,3 +127,18 @@ Readme içeriği hazırlandı.
  - kodlanacak sayfaların kararlaştırılan tasarımlara uygun olarak kimler tarafından ve nasıl kodlanacağının kesinleştirilmesi,
  - 2.Sprint için akademi tarafından yerine getirilmesi istenen hedeflere eksiksiz ulaşılması
  
+# SPRİNT 2
+
+## Günlük Scrum: 
+Günlük Scrum toplantıları Bayram tatili sebeplerinden dolayı gerçekleştirilemedi, Geliştirme takibi whatsapp üzerinden ilerlemiştir.
+Daily Scrum içeriği görüntüler şeklinde ekteki dosyada paylaşılmıştır. 
+ [Daily Scrum 2.docx](https://github.com/GrupF-109/GrupF-109/files/11931743/Daily.Scrum.2.docx)
+
+## Sprint board güncellemesi: 
+### Sprint Board Ekran Görüntüleri:
+![Screenshot_2023-07-03-02-40-32-931_com trello-edit](https://github.com/GrupF-109/GrupF-109/assets/136235551/fc4637f4-29a4-47c2-b90d-ed250e9a9739)
+![Screenshot_2023-07-03-02-40-23-621_com trello](https://github.com/GrupF-109/GrupF-109/assets/136235551/4ae1a14b-1f33-408c-986f-61439ebcb4e9)
+![Screenshot_2023-07-03-02-40-19-837_com trello](https://github.com/GrupF-109/GrupF-109/assets/136235551/ced31965-c8db-43f7-9e45-93cbbc8e2611)
+
+## Ürün Durumu:
+### Ekran görüntüsü:
