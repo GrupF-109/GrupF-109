@@ -173,3 +173,6 @@ Takım içinde gelecek sprintlerde daha fazla aktif olunması vurgusu yapılmı�
 Uygulamanın diğer sayfaları için ekran tasarımlarının tamamlanması
 kod sayfalarının kararlaştırılan tasarımlara uygun olarak kimler tarafından ve nasıl kodlanacağının yeniden kesinleştirilmesi,
 Uygulama çıktısında istenilen nihai sonuca varılması için çalışılması
+
+# Product Backlog URL
+https://trello.com/b/6ui5oDQx/spri%CC%87nt-2
