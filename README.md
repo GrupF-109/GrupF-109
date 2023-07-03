@@ -129,6 +129,10 @@ Readme içeriği hazırlandı.
  
 # SPRİNT 2
 
++ **Sprint içinde elde edilmesi hedeflenen puan:** 120 Puan
+
++ **Puan elde etme yöntemi:** Proje tamamlanana kadar elde edilmesi gereken 340 puanlık backlog bulunmaktadır. 3 Sprintlik bir proje olacağı düşünüldüğünde ikinci sprint için 120 puan hedefi uygun görüldü.
+
 - **Günlük Scrum:** 
 Günlük Scrum toplantıları Bayram tatili sebeplerinden dolayı gerçekleştirilemedi, Geliştirme takibi whatsapp üzerinden ilerlemiştir.
 Daily Scrum içeriği görüntüler şeklinde ekteki dosyada paylaşılmıştır. 
@@ -169,12 +173,15 @@ Takım içinde gelecek sprintlerde daha fazla aktif olunması vurgusu yapılmı�
 - 2.sprint kapsamında anasayfa tasarımı ve kod yapısı + konum sayfasının tasarımı tamamlandı.
 - Beni oku içeriği hazırlanmıştır.
 
-### 3.Sprint kapsamında gerçekleştirilmesi hedeflenen görevleri şöyle listeledi:
+### 3.Sprint kapsamında gerçekleştirilmesi hedeflenen görevler şöyle listelendi:
 
-2.sprintten eksik kalan alanların tamamlanması
-Uygulamanın diğer sayfaları için ekran tasarımlarının tamamlanması
-kod sayfalarının kararlaştırılan tasarımlara uygun olarak kimler tarafından ve nasıl kodlanacağının yeniden kesinleştirilmesi,
-Uygulama çıktısında istenilen nihai sonuca varılması için çalışılması
+- 2.sprintten eksik kalan alanların tamamlanması
+- Uygulamanın diğer sayfaları için ekran tasarımlarının tamamlanması
+- kod sayfalarının kararlaştırılan tasarımlara uygun olarak kimler tarafından ve nasıl kodlanacağının yeniden kesinleştirilmesi,
+- Uygulama çıktısında istenilen nihai sonuca varılması için çalışılması
+
+# Jüriye Not
+Jüriye iletilmesi gereken bir not olmadığına karar verildi.
 
 # Product Backlog URL
 https://trello.com/b/6ui5oDQx/spri%CC%87nt-2
