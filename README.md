@@ -129,9 +129,9 @@ Readme içeriği hazırlandı.
  
 # SPRİNT 2
 
-+ **Sprint içinde elde edilmesi hedeflenen puan:** 120 Puan
++ **Sprint içinde elde edilmesi hedeflenen puan:** 110 Puan
 
-+ **Puan elde etme yöntemi:** Proje tamamlanana kadar elde edilmesi gereken 340 puanlık backlog bulunmaktadır. 3 Sprintlik bir proje olacağı düşünüldüğünde ikinci sprint için 120 puan hedefi uygun görüldü.
++ **Puan elde etme yöntemi:** Proje tamamlanana kadar elde edilmesi gereken 340 puanlık backlog bulunmaktadır. 3 Sprintlik bir proje olacağı düşünüldüğünde ikinci sprint için 110 puan hedefi uygun görüldü.
 
 - **Günlük Scrum:** 
 Günlük Scrum toplantıları Bayram tatili sebeplerinden dolayı gerçekleştirilemedi, Geliştirme takibi whatsapp üzerinden ilerlemiştir.
