@@ -142,6 +142,7 @@ Daily Scrum içeriği görüntüler şeklinde ekteki dosyada paylaşılmıştır
 
 ## Ürün Durumu:
 - **Ekran görüntüsü:**
+
 ![Screenshot_1688339359](https://github.com/GrupF-109/GrupF-109/assets/136235551/6c610b2c-262f-4622-a799-8ee9f1871ecc)
 ![Screenshot_1688339371](https://github.com/GrupF-109/GrupF-109/assets/136235551/f43c85be-24c1-4991-bbf9-9042757ff1db)
 ![Screenshot_1688339651](https://github.com/GrupF-109/GrupF-109/assets/136235551/87f7ab1f-b333-498e-ac53-b0e363eae4ef)
