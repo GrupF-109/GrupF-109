@@ -185,3 +185,56 @@ Jüriye iletilmesi gereken bir not olmadığına karar verildi.
 
 # Product Backlog URL
 https://trello.com/b/6ui5oDQx/spri%CC%87nt-2
+
+# SPRİNT 3
+
+Sprint içinde bitti tahmin edilen puan : 130 Puan
+
+Günlük Scrum : Günlük Scrum toplantıları iş yoğunluğu sebebiyle gerçekleştirilemedi, Geliştirme takibi whatsapp üzerinden ilerlemiştir.
+ Daily Scrum içeriği ektedir.
+ [Uploading DAİLY SCRUM 3.docx…]()
+
+
+Sprint board güncellemesi
+Sprint Board Ekran Görüntüleri:
+
+
+
+Ürün Durumu : 
+Ekran görüntüsü:
+
+GELİŞTİRDİĞİMİZ SAYFALARIN EKRAN GÖRÜNTÜSÜ VE VİDEOLARI EKLENECEK
+
+Sprint İncelemesi
+ 
+Alınan kararlar: 
+•	Bu sprintte login ekran,hesap aç ve google bağlanma özelliği (?) tamamlanmıştır. Login giriş sayfasının tasarımı tamamlanmıştır.
+•	Anasayfa ekran tasarımları ve kodları geliştirmesi tamamlanmıştır.
+•	Anasayfada için ilanların harita üzerinde pin olarak işaretlenmesi tamamlanmıştır.
+•	Harita - konum sayfasının geliştirilmesi tamamlanmıştır. 
+•	Iş bul sayfası için haritada işaretlenen görevlerin yazılı bir şekilde ilan olarak görüntülenmesi tamamlanmıştır.
+•	İş bul sayfasındaki ilanların tıklandığında haritada bulunan konumu işaret etmesi tamamlanmıştır.
+Sprint Review izlenimleri: Baran Özdemir, Orhan Acer, Ecen Tan, Nur Albayrak
+
+
+
+Sprint Retrospektifi:
+
+Takım içinde bazı süreç aksaklıkları yaşanmıştır. (hastalık, ameliyat, yoğun iş temposu, kodlarda oluşan hatalar - dosyaların silinmesi vb. gibi) Ürün belirtilen tarihe kadar nihai haline getirilmeye çalışmıştır (ya da bu cümleyi getirilmiştir diyebiliriz?)
+
+Sprint Notları
+
+•	Ürün kapsamının tamamlanması için belirli kodlar geliştirildi.
+•	Uygulamanın ikinci sprintten eksik kalan alanları tamamlandı.
+•	3.sprint kapsamında anasayfa tasarımı ve kod yapısı + konum sayfasının tasarımı tamamlandı.
+•	İş bul sayfasının tasarımı ve ilanın görüntülenmesi alanı tamamlandı.
+•	Kayıt ol, giriş yap - google ile giriş yap alanları tamamlandı.
+•	Son sprint kapsamında Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve tamamlanamayan sayfa, algoritma ve servis bağlantıları değerlendirilmiştir. (değerlendirildiyse yazabiliriz.)
+Beni oku 3.sprint içeriği hazırlanmıştır.
+
+Juriye Not
+Jüriye iletilmesi gereken bir not olmadığına karar verildi.
+
+Product baclog URL 
+https://trello.com/b/di0QL1lJ/spri%CC%87nt3
+Trello Sprint3'de yapılan 7 madde, tamamlanan 6 madde bulunmaktadır.
