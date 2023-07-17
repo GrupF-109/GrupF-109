@@ -188,26 +188,36 @@ https://trello.com/b/6ui5oDQx/spri%CC%87nt-2
 
 # SPRİNT 3
 
-Sprint içinde bitti tahmin edilen puan : 130 Puan
++ **Sprint içinde elde edilmesi hedeflenen puan:** 130 Puan
 
-Günlük Scrum : Günlük Scrum toplantıları iş yoğunluğu sebebiyle gerçekleştirilemedi, Geliştirme takibi whatsapp üzerinden ilerlemiştir.
++ **Puan elde etme yöntemi:** Proje tamamlanana kadar elde edilmesi gereken 340 puanlık backlog bulunmaktadır. 3 Sprintlik bir proje olacağı düşünüldüğünde Final sprinti için 130 puan hedefi uygun görüldü.
+
+- **Günlük Scrum:**  Günlük Scrum toplantıları iş yoğunluğu sebebiyle gerçekleştirilemedi, Geliştirme takibi whatsapp üzerinden ilerlemiştir.
  Daily Scrum içeriği ektedir.
- [Uploading DAİLY SCRUM 3.docx…]()
+[DAİLY SCRUM 3.docx](https://github.com/GrupF-109/GrupF-109/files/12067203/DAILY.SCRUM.3.docx)
 
 
-Sprint board güncellemesi
-Sprint Board Ekran Görüntüleri:
+- **Sprint board güncellemesi:** 
+- **Sprint Board Ekran Görüntüleri:**
+
+![IMG-20230717-WA0027](https://github.com/GrupF-109/GrupF-109/assets/136235551/e5148114-fb8d-47da-bec7-a82fb42d0935)
+![IMG-20230717-WA0021](https://github.com/GrupF-109/GrupF-109/assets/136235551/a43c1088-0110-40c6-b9d5-685ab9903da8)
+![IMG-20230717-WA0025](https://github.com/GrupF-109/GrupF-109/assets/136235551/6832a583-08fb-41d6-9da1-dc924be422a0)
+![IMG-20230717-WA0024](https://github.com/GrupF-109/GrupF-109/assets/136235551/dbd3ee16-05e8-402a-80bb-528760328be3)
+![IMG-20230717-WA0026](https://github.com/GrupF-109/GrupF-109/assets/136235551/e8cbe974-3943-494d-a808-d3887f239810)
+![IMG-20230717-WA0022](https://github.com/GrupF-109/GrupF-109/assets/136235551/5bc7d53c-2f35-4cd1-ae84-b61891409966)
+![IMG-20230717-WA0023](https://github.com/GrupF-109/GrupF-109/assets/136235551/ed0bfef0-a360-4afd-9e45-140826e73a56)
 
 
-
-Ürün Durumu : 
-Ekran görüntüsü:
+## Ürün Durumu:
+- **Ekran görüntüsü:**
 
 GELİŞTİRDİĞİMİZ SAYFALARIN EKRAN GÖRÜNTÜSÜ VE VİDEOLARI EKLENECEK
 
-Sprint İncelemesi
+## Sprint Review:
  
-Alınan kararlar: 
+- **Alınan kararlar:**
+- 
 •	Bu sprintte login ekran,hesap aç ve google bağlanma özelliği (?) tamamlanmıştır. Login giriş sayfasının tasarımı tamamlanmıştır.
 •	Anasayfa ekran tasarımları ve kodları geliştirmesi tamamlanmıştır.
 •	Anasayfada için ilanların harita üzerinde pin olarak işaretlenmesi tamamlanmıştır.
@@ -217,12 +227,11 @@ Alınan kararlar:
 Sprint Review izlenimleri: Baran Özdemir, Orhan Acer, Ecen Tan, Nur Albayrak
 
 
+## Sprint Retrospective:
 
-Sprint Retrospektifi:
+Takım içinde bazı süreç aksaklıkları yaşanmıştır. (hastalık, ameliyat, yoğun iş temposu, kodlarda oluşan hatalar - dosyaların silinmesi vb. gibi) Ürün belirtilen tarihe kadar nihai haline getirilmeye çalışılmıştır.
 
-Takım içinde bazı süreç aksaklıkları yaşanmıştır. (hastalık, ameliyat, yoğun iş temposu, kodlarda oluşan hatalar - dosyaların silinmesi vb. gibi) Ürün belirtilen tarihe kadar nihai haline getirilmeye çalışmıştır (ya da bu cümleyi getirilmiştir diyebiliriz?)
-
-Sprint Notları
+## Sprint Notları
 
 •	Ürün kapsamının tamamlanması için belirli kodlar geliştirildi.
 •	Uygulamanın ikinci sprintten eksik kalan alanları tamamlandı.
@@ -232,9 +241,9 @@ Sprint Notları
 •	Son sprint kapsamında Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve tamamlanamayan sayfa, algoritma ve servis bağlantıları değerlendirilmiştir. (değerlendirildiyse yazabiliriz.)
 Beni oku 3.sprint içeriği hazırlanmıştır.
 
-Juriye Not
+# Jüriye Not
 Jüriye iletilmesi gereken bir not olmadığına karar verildi.
 
-Product baclog URL 
+# Product Backlog URL
 https://trello.com/b/di0QL1lJ/spri%CC%87nt3
 Trello Sprint3'de yapılan 7 madde, tamamlanan 6 madde bulunmaktadır.
