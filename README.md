@@ -217,13 +217,14 @@ GELİŞTİRDİĞİMİZ SAYFALARIN EKRAN GÖRÜNTÜSÜ VE VİDEOLARI EKLENECEK
 ## Sprint Review:
  
 - **Alınan kararlar:**
-- 
-•	Bu sprintte login ekran,hesap aç ve google bağlanma özelliği (?) tamamlanmıştır. Login giriş sayfasının tasarımı tamamlanmıştır.
-•	Anasayfa ekran tasarımları ve kodları geliştirmesi tamamlanmıştır.
-•	Anasayfada için ilanların harita üzerinde pin olarak işaretlenmesi tamamlanmıştır.
-•	Harita - konum sayfasının geliştirilmesi tamamlanmıştır. 
-•	Iş bul sayfası için haritada işaretlenen görevlerin yazılı bir şekilde ilan olarak görüntülenmesi tamamlanmıştır.
-•	İş bul sayfasındaki ilanların tıklandığında haritada bulunan konumu işaret etmesi tamamlanmıştır.
+
+- Bu sprintte login ekran,hesap aç ve google bağlanma özelliği (?) tamamlanmıştır. Login giriş sayfasının tasarımı tamamlanmıştır.
+-	Anasayfa ekran tasarımları ve kodları geliştirmesi tamamlanmıştır.
+-	Anasayfada için ilanların harita üzerinde pin olarak işaretlenmesi tamamlanmıştır.
+-	Harita - konum sayfasının geliştirilmesi tamamlanmıştır. 
+-	Iş bul sayfası için haritada işaretlenen görevlerin yazılı bir şekilde ilan olarak görüntülenmesi tamamlanmıştır.
+-	İş bul sayfasındaki ilanların tıklandığında haritada bulunan konumu işaret etmesi tamamlanmıştır.
+  
 Sprint Review izlenimleri: Baran Özdemir, Orhan Acer, Ecen Tan, Nur Albayrak
 
 
@@ -233,13 +234,13 @@ Takım içinde bazı süreç aksaklıkları yaşanmıştır. (hastalık, ameliya
 
 ## Sprint Notları
 
-•	Ürün kapsamının tamamlanması için belirli kodlar geliştirildi.
-•	Uygulamanın ikinci sprintten eksik kalan alanları tamamlandı.
-•	3.sprint kapsamında anasayfa tasarımı ve kod yapısı + konum sayfasının tasarımı tamamlandı.
-•	İş bul sayfasının tasarımı ve ilanın görüntülenmesi alanı tamamlandı.
-•	Kayıt ol, giriş yap - google ile giriş yap alanları tamamlandı.
-•	Son sprint kapsamında Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış, firebase servislerine bağlantıları yapılmış ve tamamlanamayan sayfa, algoritma ve servis bağlantıları değerlendirilmiştir. (değerlendirildiyse yazabiliriz.)
-Beni oku 3.sprint içeriği hazırlanmıştır.
+-	Ürün kapsamının tamamlanması için belirli kodlar geliştirildi.
+-	Uygulamanın ikinci sprintten eksik kalan alanları tamamlandı.
+-	3.sprint kapsamında anasayfa tasarımı ve kod yapısı + konum sayfasının tasarımı tamamlandı.
+-	İş bul sayfasının tasarımı ve ilanın görüntülenmesi alanı tamamlandı.
+-	Kayıt ol, giriş yap - google ile giriş yap alanları tamamlandı.
+-	Son sprint kapsamında Kullanıcı temel sayfaların arayüzleri, algoritmaları kodlanmış ve tamamlanamayan sayfa, algoritma ve servis bağlantıları değerlendirilmiştir.
+- Beni oku 3.sprint içeriği hazırlanmıştır.
 
 # Jüriye Not
 Jüriye iletilmesi gereken bir not olmadığına karar verildi.
